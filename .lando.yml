@@ -1,0 +1,4 @@
+name: voxpopfilms-com
+recipe: wordpress
+config:
+  webroot: .
